@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "0440",
+      "fullName": "qwert",
+      "age": 2345,
+      "isStudent": false
+    }
+  ]
+}
